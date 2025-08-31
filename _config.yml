@@ -113,30 +113,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Alistair Carson"
+  avatar           : "/assets/img/bio-photo.jpg"
+  bio              : ""
+  location         : "Edinburgh, UK"
   email            :
   links:
-    - label: "Email"
+    - label: "alistaircarson20@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
+      url: "mailto:alistaircarson20@gmail.com"
+    - label: "a-carson"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/a-carson"
+    - label: "Alistair Carson"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alistair-carson-a6178919a/"
+
 
 # Site Footer
 footer:
