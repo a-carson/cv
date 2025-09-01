@@ -30,27 +30,27 @@ Below are some key publications, with a full list available [here](/publications
 
 <span style="display:inline-block; padding:2px 6px; margin-left:6px; background:#e0e0e0; border-radius:6px; font-size:12px; font-weight:bold;">
 DAFx
-</span> [Anti-aliasing of neural distortion effects via model fine-tuning](https://arxiv.org/pdf/2505.11375)  <br>
+</span><a href="https://arxiv.org/pdf/2505.11375" target="_blank" rel="noopener noreferrer">Anti-aliasing of neural distortion effects via model fine-tuning</a><br>
 **Alistair Carson**, Alec Wright, Stefan Bilbao  <br>
 *Proc. 28th Int. Conf. on Digital Audio Effects (DAFx25)*, Ancona, Italy, Sept. 2025.
 
 
 <span style="display:inline-block; padding:2px 6px; margin-left:6px; background:#e0e0e0; border-radius:6px; font-size:12px; font-weight:bold;">
 TASLP
-</span>  [Resampling Filter Design for Multirate Neural Audio Effect Processing](https://arxiv.org/pdf/2501.18470)<br>
+</span><a href="https://arxiv.org/pdf/2501.18470" target="_blank" rel="noopener noreferrer">Resampling filter design for multirate neural audio effect processing</a><br>
 **Alistair Carson**, Vesa Välimäki, Alec Wright, Stefan Bilbao  <br>
 *IEEE Transactions on Audio, Speech and Language Processing* vol. 33, pp. 2163-2174, 2025
 
 
 <span style="display:inline-block; padding:2px 6px; margin-left:6px; background:#e0e0e0; border-radius:6px; font-size:12px; font-weight:bold;">
 DAFx
-</span>   [Sample rate independent recurrent neural networks for audio effects processing](https://arxiv.org/pdf/2406.06293) <br>
+</span><a href="https://arxiv.org/pdf/2406.06293" target="_blank" rel="noopener noreferrer">Sample rate independent recurrent neural networks for audio effects processing</a><br>
 **Alistair Carson**, Alec Wright, Jatin Chowdhury, Vesa Välimäki, Stefan Bilbao  <br>
 *Proc. 27th Int. Conf. Digital Audio Effects (DAFx24)*, Guildford, UK, Sept. 2024
 
 
 <span style="display:inline-block; padding:2px 6px; margin-left:6px; background:#e0e0e0; border-radius:6px; font-size:12px; font-weight:bold;">
 DAFx
-</span>   [Differentiable grey-box modelling of phaser effects using frame-based spectral processing](https://arxiv.org/pdf/2306.01332) <br> 
+</span><a href="https://arxiv.org/pdf/2306.01332" target="_blank" rel="noopener noreferrer">Differentiable grey-box modelling of phaser effects using frame-based spectral processing</a><br>
 **Alistair Carson**, C. Valentini-Botinhao, Simon King, Stefan Bilbao  
-*Proc. 26th Int. Conf. on Digital Audio Effects (DAFx23)*, Copenhagen, Denmark, Sept. 2023,  
+*Proc. 26th Int. Conf. on Digital Audio Effects (DAFx23)*, Copenhagen, Denmark, Sept. 2023 
